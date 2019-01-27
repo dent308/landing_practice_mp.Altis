@@ -1,4 +1,4 @@
-diag_log format["vehicleInit called : %1", _this];
+// diag_log format["vehicleInit called : %1", _this];
 
 //_vehicle = _this select 0;
 _vehicle = _this;

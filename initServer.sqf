@@ -1,6 +1,6 @@
 diag_log "initServer called";
 
-LZCOUNT = 10;
+LZCOUNT = 140;
 STARTPRIORITY = 1000;
 EXLUDESPAWNLZS = [(missionNamespace getVariable "lz1")]; // Exclude the airport location near spawn marker
 

@@ -1,3 +1,4 @@
+diag_log "readparams.sqf";
 
 //Time of day
 _time = paramsArray select 0;

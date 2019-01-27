@@ -5,13 +5,13 @@ class Header
     maxPlayers = 4;
 };
 
-loadScreen = "main.jpg";
+// loadScreen = "main.jpg";
 author = dent;
 onLoadName = Landing Practice MP;
 
 respawn = 3;
 respawnDialog = 0;
-respawnDelay = 15;
+respawnDelay = 5;
 respawnTemplates[] = {"Counter"};
 respawnButton = 1;
 respawnOnStart = -1;

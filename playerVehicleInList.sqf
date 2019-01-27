@@ -18,7 +18,7 @@ scopeName "main";
     	if ({isPlayer _x} count _triggerList > 0) then
     	{
         	_returnValue = _veh;
-	        diag_log format["playerVehicleInList is : %1", _veh];
+	        // diag_log format["playerVehicleInList is : %1", _veh];
 	        breakTo "main";
 	    }
 	}
