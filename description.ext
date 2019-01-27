@@ -5,7 +5,7 @@ class Header
     maxPlayers = 4;
 };
 
-// loadScreen = "main.jpg";
+
 author = dent;
 onLoadName = Landing Practice MP;
 
